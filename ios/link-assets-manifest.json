@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/audio/new.mp3",
+      "sha1": "db0a4eeefff949dfbd96bc9cb35f0380154b356f"
+    },
+    {
+      "path": "src/assets/audio/welcome.mp3",
+      "sha1": "78f4c2c7048a6c318113b965f5c35a40d2490fc5"
+    },
+    {
+      "path": "src/assets/logo/mice.png",
+      "sha1": "0bb5b7986f04d7e44dbba2ea8955a4a566c14ade"
+    },
+    {
+      "path": "src/assets/logo/VisionMate.png",
+      "sha1": "53204a282ff8f0ec65eb5e42b81ffb17d7dfb3c1"
+    }
+  ]
+}
